@@ -1,1 +1,1 @@
-# Krs_C++ by Regiana Hermawa
+# Krs_C++ by Regiana Hermawan
